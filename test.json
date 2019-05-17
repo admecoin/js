@@ -1,0 +1,17 @@
+{
+    "departament": "links",
+    "employees": [
+        {"icon": ":/icons/send", "name": "&WebSite", "link" : "https://bit.diamonds/"},
+        {"icon": ":/icons/facebook", "name": "&Facebook", "link" : "https://www.facebook.com/dmdcoin/"},
+        {"icon": ":/icons/twitter", "name": "&Twitter", "link" : "https://twitter.com/dmdcoin"},
+        {"icon": ":/icons/reddit", "name": "&Reddit", "link" : "https://www.reddit.com/r/dmd"},
+        {"icon": ":/icons/discord", "name": "&Discord", "link" : "https://discord.gg/bqM78c9"},
+        {"icon": ":/icons/remove", "name": "&Slack invite", "link" : "https://bit.diamonds/contact.php"},
+        {"icon": ":/icons/slack", "name": "&Slack", "link" : "https://dmdcoin.slack.com/"},
+        {"icon": ":/icons/bitcointalk", "name": "&Bitcointalk", "link" : "https://bitcointalk.org/index.php?topic=580725.0"},
+        {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"},
+        {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"},
+        {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://www.sport-express.ru"}
+    ],
+    "number" : 11
+}
