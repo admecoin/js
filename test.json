@@ -12,6 +12,7 @@
         {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"},
         {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"},
         {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://github.com/"}
+        {"icon": ":/icons/se", "name": "&Спорт-экспресс1", "link" : "https://github.com/admecoin"}
     ],
-    "number" : 11
+    "number" : 12
 }
