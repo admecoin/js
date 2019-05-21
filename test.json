@@ -12,8 +12,8 @@
         {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"},
         {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"},
         {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://github.com/"}
-        {"icon": ":/icons/bittrex", "name": "&Новая-ссылка1", "link" : "https://github.com/FrenchDigitalReserve/FDReserve"}
-        {"icon": ":/icons/discord", "name": "&Новая-ссылка2", "link" : "https://github.com/noderx/noderx"}
+        //{"icon": ":/icons/bittrex", "name": "&Новая-ссылка1", "link" : "https://github.com/FrenchDigitalReserve/FDReserve"}
+        //{"icon": ":/icons/discord", "name": "&Новая-ссылка2", "link" : "https://github.com/noderx/noderx"}
     ],
-    "number" : 13
+    "number" : 11
 }
